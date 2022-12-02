@@ -1,0 +1,9 @@
+Passar uma mensagem{"free":"2186 MB","total":"7689 MB","usage":"28%"}{"free":"2185 MB","total":"7689 MB","usage":"28%"}{"free":"2183 MB","total":"7689 MB","usage":"28%"}{"free":"2196 MB","total":"7689 MB","usage":"28%"}{"free":"2197 MB","total":"7689 MB","usage":"28%"}{"free":"2172 MB","total":"7689 MB","usage":"28%"}{"free":"2166 MB","total":"7689 MB","usage":"28%"}{"free":"2170 MB","total":"7689 MB","usage":"28%"}{"free":"2175 MB","total":"7689 MB","usage":"28%"}{"free":"2173 MB","total":"7689 MB","usage":"28%"}{"free":"2167 MB","total":"7689 MB","usage":"28%"}{"free":"2048 MB","total":"7689 MB","usage":"26%"}
+{"free":"2031 MB","total":"7689 MB","usage":"26%"}
+{"free":"2030 MB","total":"7689 MB","usage":"26%"}
+{"free":"2018 MB","total":"7689 MB","usage":"26%"}
+{"free":"2027 MB","total":"7689 MB","usage":"26%"}
+{"free":"2033 MB","total":"7689 MB","usage":"26%"}
+{"free":"2036 MB","total":"7689 MB","usage":"26%"}
+{"free":"2030 MB","total":"7689 MB","usage":"26%"}
+{"free":"2046 MB","total":"7689 MB","usage":"26%"}
