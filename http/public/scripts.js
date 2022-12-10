@@ -3,6 +3,10 @@ const input = document.querySelector("input")
 const form = document.querySelector('form')
 
 
+// function load() {
+//     fetch("http://localhost:3000/").then((data) => data.json()).then((data) => console.log(data))
+// }
+
 function addElement({ name, url }) {
     const li = document.createElement('li')
     const a = document.createElement("a")
