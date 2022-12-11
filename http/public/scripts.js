@@ -3,9 +3,11 @@ const input = document.querySelector("input")
 const form = document.querySelector('form')
 
 
-// function load() {
-//     fetch("http://localhost:3000/").then((data) => data.json()).then((data) => console.log(data))
-// }
+async function load() {
+  const res = await fetch("http://localhost:3000/").then((data) => data.json())
+  
+  res.urls.map(({name, url}) => ({name, url}))
+}
 
 function addElement({ name, url }) {
     const li = document.createElement('li')
